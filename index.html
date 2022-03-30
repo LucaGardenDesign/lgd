@@ -8,45 +8,55 @@ seo:
   twitter_card:
   keywords:
   hide-from-google: false
+cards:
+ - heading: Amenajări grădini și spații verzi
+   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet minus rerum quasi voluptate, beatae nulla laborum facere natus expedita nisi exercitationem tempora ipsa.
+   featured_image: images/bg-bedroom-1.jpg
+ - heading: Vânzare de plante ornamentale
+   description: Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+   featured_image: images/bg-bedroom-2.jpg
+ - heading: Amenajări cu piatră naturală
+   description: Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+   featured_image: images/bg-bedroom-3.jpg
 ---
 
     <!-- Banner Section -->
     <section class="grid-middle bg-image bg-plant padded tall-70 fixed parallax">
         <div class="col-8_sm-10 editable">
-            <h2>
-                Web design &amp; development <br> that helps your business grow
-            </h2>
-            <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam omnis assumenda deleniti, dicta non provident fugiat animi, facilis ad consequatur laboriosam! Delectus quaerat, earum sunt eum ratione incidunt quae hic.</p>
+           <h2> Colțul de natură imaginat, <span> acasă la tine </span></h2>
+           <h1> Amenajări grădini cu plante ornamentale și piatră naturală </h1>
+        </div>
+        <div class="col-12 padded-t-2"> 
+               <a href="/contact" class="button"> Solicită ofertă </a> 
         </div>
     </section>
 
     <!-- Icon Grid -->
-    <section class="grid center padded bg-light" id="why-us">
+    <section class="grid center padded bg-light">
         <div class="col-12 center padded-b">
-            <h2 data-aos="fade-up"> Why Choose Us </h2>
+            <h2> De ce să ne alegi </h2>
         </div>
-        <div class="col-3_sm-6_xs-12">
+        <div class="col-3_sm-6_xs-12 padded-1">
+            <p> <i class="las la-comment-dollar"></i> </p>
+            <h4> Consiliere design </h4>
+            <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur, voluptatibus! Quae quasi, ratione inventore, rerum error aut rem assumenda fugit incidunt est eum totam. Vitae necessitatibus voluptate accusantium quibusdam amet.</p>
+        </div>
+        <div class="col-3_sm-6_xs-12 padded-1">
             <p> <i class="las la-bolt"></i> </p>
-            <h4> Lightning fast </h4>
+            <h4> Amenajare și montare </h4>
             <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, ipsam vero praesentium ut esse eaque voluptate a autem. </p>
         </div>
 
-        <div class="col-3_sm-6_xs-12">
+        <div class="col-3_sm-6_xs-12 padded-1">
             <p> <i class="las la-lightbulb"></i> </p>
-            <h4> Strategic Perspective </h4>
+            <h4> 100% garanție produs </h4>
             <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Numquam vero repudiandae mollitia deserunt officiis ipsa eius reiciendis non quod unde dolor doloribus nesciunt perferendis perspiciatis commodi soluta, aliquam aspernatur eum.</p>
         </div>
 
-        <div class="col-3_sm-6_xs-12">
+        <div class="col-3_sm-6_xs-12 padded-1">
             <p> <i class="las la-tag"></i> </p>
-            <h4> Optimised for Google </h4>
+            <h4> Livrare la timp </h4>
             <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis neque quidem aliquam deserunt. Laboriosam quaerat velit saepe consequuntur repellendus earum. Assumenda fugit suscipit, iste possimus perferendis consequatur repellat libero illum.</p>
-        </div>
-
-        <div class="col-3_sm-6_xs-12">
-            <p> <i class="las la-comment-dollar"></i> </p>
-            <h4> Modern E-Commerce</h4>
-            <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur, voluptatibus! Quae quasi, ratione inventore, rerum error aut rem assumenda fugit incidunt est eum totam. Vitae necessitatibus voluptate accusantium quibusdam amet.</p>
         </div>
     </section>
 
@@ -63,7 +73,7 @@ seo:
 
     <!-- Call to Action -->
     <section class="padded-2 center bg-dark-rust light-text">
-        <h4> Stay up to date with our lattest work </h4>
+        <h4> Fii la curent cu noutățile noastre </h4>
         <a href="#" class="button">Instagram </a> 
     </section>
 
@@ -75,21 +85,18 @@ seo:
             </div>
     </section>
 
-    <!-- Services Grid -->
-    <section class="grid padded bg-green">
-        <div class="col-4_sm-12 center padded-1">
-            <h2> Design. </h2>
-            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, commodi. Ad itaque tempora error deleniti porro. Odit similique quisquam fuga repellat facilis facere voluptates eveniet voluptate. Amet doloribus quisquam enim?</p>
-            <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet, fugiat, quos ipsum impedit autem voluptates dolorum ut maiores sed consequuntur quae libero facilis facere necessitatibus cum et, dignissimos voluptatum sequi?</p>
+    <!-- Services Cards -->
+      <section class="grid padded">
+        {% for item in page.cards %}
+        <div class="col-4_sm-12 padded-sm">
+            <div class="card editable">
+                <div class="bg-image landscape" style="background-image: url('{{item.featured_image}}')"></div>
+                <div class="padded-t-2"> 
+                    <h3 class="center"> {{item.heading}}</h3>
+                    <p> {{item.description}}</p>
+                </div>
+            </div>
         </div>
-        <div class="col-4_sm-12 center padded-1">
-            <h2> Build. </h2>
-            <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae repellat veritatis rem voluptates labore voluptatem omnis culpa unde dolores, tempora libero ipsum itaque facere sunt quia. Inventore dolor commodi alias.</p>
-            <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est dolore consectetur delectus amet suscipit enim animi quos sapiente! Porro, vel ratione? Esse deserunt praesentium, at hic cumque minus ex obcaecati!</p>
-        </div>
-        <div class="col-4_sm-12 center padded-1 editable">
-            <h2> Optimise. </h2>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel, consequatur adipisci eaque natus mollitia architecto! Obcaecati iure veniam sint deleniti alias laboriosam deserunt error cupiditate, soluta, aliquid totam culpa beatae.</p>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque delectus consectetur ratione nobis reprehenderit, unde iusto totam obcaecati ad veniam! Eaque repudiandae iusto consectetur doloremque, nesciunt dolorem tempora odio deserunt.</p>
-        </div>
-    </section>
+        {% endfor %}
+      </section>
+
