@@ -337,9 +337,44 @@ nav a:hover {
     font-weight: normal;
   }
 
-
-
 /* ------------ Contact Forms  ----------------------- */
+
+form input,
+form textarea {
+  width: 100%;
+  margin: 0.5rem 0; 
+  padding: 0.5rem;
+  border: 2px solid #a2745c;
+  outline: none; 
+  font-family: inherit;
+  font-size: 0.9rem;
+}
+
+form input:focus,
+form textarea:focus {
+  border-color: #9b9b81;
+}
+
+textarea {
+  min-height: 5rem;
+  resize: vertical;
+}
+
+form label {
+  margin-top: 1rem;
+  display: block;
+  color: #a2745c;
+  font-weight: bold;
+}
+
+form button{
+    border: 2px solid #a2745c;
+    background: none;
+    color: #a2745c;
+    font-weight: bold;
+    padding: 0.5rem 2rem;
+    margin-top: 1rem;
+}
 
 
 

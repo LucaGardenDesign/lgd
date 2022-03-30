@@ -10,49 +10,86 @@ seo:
   hide-from-google: false
 ---
 
-<!------------------------ Image Banner  ------------------------>
-<section class="bg-image padded grid bg-overlay-gradient tall-90">
+    <!-- Banner Section -->
+    <section class="grid-middle bg-image bg-plant padded tall-70 fixed parallax">
+        <div class="col-8_sm-10 editable">
+            <h2>
+                Web design &amp; development <br> that helps your business grow
+            </h2>
+            <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam omnis assumenda deleniti, dicta non provident fugiat animi, facilis ad consequatur laboriosam! Delectus quaerat, earum sunt eum ratione incidunt quae hic.</p>
+        </div>
+    </section>
 
-    <div class="col-12-middle center text-light">
-        <h2> Welcome to your new favourite blog </h2>
-        <p class="emphasis"> Lorem, ipsum dolor sit amet consectetur. </p>
-    </div>
+    <!-- Icon Grid -->
+    <section class="grid center padded bg-light" id="why-us">
+        <div class="col-12 center padded-b">
+            <h2 data-aos="fade-up"> Why Choose Us </h2>
+        </div>
+        <div class="col-3_sm-6_xs-12">
+            <p> <i class="las la-bolt"></i> </p>
+            <h4> Lightning fast </h4>
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, ipsam vero praesentium ut esse eaque voluptate a autem. </p>
+        </div>
 
-</section>
+        <div class="col-3_sm-6_xs-12">
+            <p> <i class="las la-lightbulb"></i> </p>
+            <h4> Strategic Perspective </h4>
+            <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Numquam vero repudiandae mollitia deserunt officiis ipsa eius reiciendis non quod unde dolor doloribus nesciunt perferendis perspiciatis commodi soluta, aliquam aspernatur eum.</p>
+        </div>
 
-<!------------------------ Featured blog loop ------------------------>
-<section class="padded">
+        <div class="col-3_sm-6_xs-12">
+            <p> <i class="las la-tag"></i> </p>
+            <h4> Optimised for Google </h4>
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis neque quidem aliquam deserunt. Laboriosam quaerat velit saepe consequuntur repellendus earum. Assumenda fugit suscipit, iste possimus perferendis consequatur repellat libero illum.</p>
+        </div>
 
-    <div class="capped-width grid-center">
+        <div class="col-3_sm-6_xs-12">
+            <p> <i class="las la-comment-dollar"></i> </p>
+            <h4> Modern E-Commerce</h4>
+            <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur, voluptatibus! Quae quasi, ratione inventore, rerum error aut rem assumenda fugit incidunt est eum totam. Vitae necessitatibus voluptate accusantium quibusdam amet.</p>
+        </div>
+    </section>
 
-    <div class="col-12 padded-05 center margin-b-1">
-        <h2> Featured Posts </h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quaerat necessitatibus? Praesentium fugit ex neque magni, possimus, iste itaque voluptatem id doloremque voluptas consequatur dolor cumque! Dolores possimus laboriosam adipisci.</p>
-    </div>
+    <!-- Dark Intro Section -->
+    <section class="grid bg-green padded">
+        <div class="col-7_sm-12 bg-image bg-meeting tall-50">
+        </div>
+        <div class="col-5_sm-12-middle padded">
+            <h2> More than just another agency </h2>
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nobis possimus aspernatur error totam quas sunt doloribus minus molestiae, facilis molestias iure dicta odio quae porro repellat aperiam sed excepturi.</p>
+            <p> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus, culpa error atque placeat dolores cupiditate! Et cumque, velit consequatur natus error rem minima quas iure consequuntur? Unde asperiores dolor deserunt?</p>
+        </div>
+    </section>
 
-        {% assign featured_posts = site.posts | where: 'featured', true %}
+    <!-- Call to Action -->
+    <section class="padded-2 center bg-dark-rust light-text">
+        <h4> Stay up to date with our lattest work </h4>
+        <a href="#" class="button">Instagram </a> 
+    </section>
 
-        {% for post in featured_posts limit:3 %}
-
-            <div class="col-4 post-item padded-05">
-                <div class="bg-image portrait" style="background-image:url( '{{ post.featured_image }}' );"></div>
-                <div class="padded-t-1">
-                    
-                    {% for item in post.categories %}
-                        <span class="tag"> {{item}} </span>
-                    {% endfor %}
-
-                    <h2 class="margin-t-1"> {{ post.title }} </h2>
-                    <p> {{ post.description }} </p>
-                    <a href="{{ post.url }}" class="subtle-button"> Read More </a>
-
-                </div>
+    <!-- Services Opening Banner -->
+    <section class="padded grid-right bg-image bg-plant-2 tall-70 center fixed parallax" id="services">
+            <div class="col-6_sm-8-middle right">
+                <h2> Our Services </h2>
+                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Id odit animi nisi distinctio aliquam. Odit velit laudantium quo dignissimos eaque eligendi iste consequatur quas vitae? Corporis fuga quae id dicta.</p>
             </div>
+    </section>
 
-        {% endfor %}
-
-    </div>
-
-</section>
-
-
+    <!-- Services Grid -->
+    <section class="grid padded bg-green">
+        <div class="col-4_sm-12 center padded-1">
+            <h2> Design. </h2>
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, commodi. Ad itaque tempora error deleniti porro. Odit similique quisquam fuga repellat facilis facere voluptates eveniet voluptate. Amet doloribus quisquam enim?</p>
+            <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet, fugiat, quos ipsum impedit autem voluptates dolorum ut maiores sed consequuntur quae libero facilis facere necessitatibus cum et, dignissimos voluptatum sequi?</p>
+        </div>
+        <div class="col-4_sm-12 center padded-1">
+            <h2> Build. </h2>
+            <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae repellat veritatis rem voluptates labore voluptatem omnis culpa unde dolores, tempora libero ipsum itaque facere sunt quia. Inventore dolor commodi alias.</p>
+            <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est dolore consectetur delectus amet suscipit enim animi quos sapiente! Porro, vel ratione? Esse deserunt praesentium, at hic cumque minus ex obcaecati!</p>
+        </div>
+        <div class="col-4_sm-12 center padded-1 editable">
+            <h2> Optimise. </h2>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel, consequatur adipisci eaque natus mollitia architecto! Obcaecati iure veniam sint deleniti alias laboriosam deserunt error cupiditate, soluta, aliquid totam culpa beatae.</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque delectus consectetur ratione nobis reprehenderit, unde iusto totam obcaecati ad veniam! Eaque repudiandae iusto consectetur doloremque, nesciunt dolorem tempora odio deserunt.</p>
+        </div>
+    </section>
