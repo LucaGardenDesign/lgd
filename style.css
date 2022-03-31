@@ -118,11 +118,28 @@ section { position: relative; }
 
 .bg-blog-cover { 
   background-image: url(/images/blog-cover-photo.jpg);
+  background-position: bottom; 
 }
 
 .bg-gardening { 
   background-image: url(/images/bg-gardening.jpg);
 }
+
+.bg-pot { 
+  background-image: url(/images/bg-pot.jpg);
+  background-position: top; 
+} 
+
+.bg-plant-services { 
+  background-image: url(/images/bg-plant-services.jpg);
+  background-position: center; 
+}
+
+.bg-contact-cover  { 
+  background-image: url(/images/bg-contact-cover.jpg);
+  background-position: center; 
+}
+
 
 .bg-overlay > * {
   position: relative;
