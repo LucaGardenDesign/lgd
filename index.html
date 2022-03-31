@@ -11,20 +11,23 @@ seo:
 cards:
  - heading: Amenajări grădini și spații verzi
    description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet minus rerum quasi voluptate, beatae nulla laborum facere natus expedita nisi exercitationem tempora ipsa.
-   featured_image: images/bg-bedroom-1.jpg
+   featured_image: images/services-1.jpg
+   url: /services.html
  - heading: Vânzare de plante ornamentale
    description: Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
    featured_image: images/bg-bedroom-2.jpg
+   url: /services.html
  - heading: Amenajări cu piatră naturală
    description: Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
    featured_image: images/bg-bedroom-3.jpg
+   url: /services.html
 ---
 
     <!-- Banner Section -->
-    <section class="grid-middle bg-image bg-plant padded tall-70 fixed parallax">
+    <section class="grid-middle bg-image bg-plant bg-overlay-gradient padded tall-70">
         <div class="col-8_sm-10 editable">
-           <h2> Colțul de natură imaginat, <span> acasă la tine </span></h2>
-           <h1> Amenajări grădini cu plante ornamentale și piatră naturală </h1>
+           <h2 class="banner"> Colțul de natură imaginat, <span> acasă la tine </span></h2>
+           <h1 class="margin-t-2"> Amenajări grădini <br> cu plante ornamentale și piatră naturală </h1>
         </div>
         <div class="col-12 padded-t-2"> 
                <a href="/contact" class="button"> Solicită ofertă </a> 
@@ -86,7 +89,7 @@ cards:
     </section>
 
     <!-- Services Cards -->
-      <section class="grid padded">
+      <section class="grid padded bg-light">
         {% for item in page.cards %}
         <div class="col-4_sm-12 padded-sm">
             <div class="card editable">
@@ -94,6 +97,7 @@ cards:
                 <div class="padded-t-2"> 
                     <h3 class="center"> {{item.heading}}</h3>
                     <p> {{item.description}}</p>
+                    <a href="{{item.url}}"> Citește mai mult </a>
                 </div>
             </div>
         </div>

@@ -1,6 +1,10 @@
 /* ----------- Color Variables --------- */
 /* Looking for the color variables? They have been moved to the inline-styles file in the _includes folder, and pull variables from the site-settings folder in the _data folder.  */
 
+/* Font styles */
+/* font-family: 'Montserrat', sans-serif; light 300, regular 400 & italic, medium 500, semibold 600
+font-family: 'Poppins', sans-serif; light 300 & italic, regular 400 & italic, medium 500, semibold 600*/
+
 /* ----------- CSS RESET --------- */
 
 * {
@@ -104,11 +108,19 @@ section { position: relative; }
 .bg-v-light  { background-color: var(--v-light); }
 
 .bg-image {
-    background-color: var(--light); /* Set a fall-back color while images are loading */ 
-    background-image: url('https://source.unsplash.com/8Ogfqvw15Rg/1600x1600');
+    background-color: var(--v-light); /* Set a fall-back color while images are loading */ 
+    background-image: url('https://source.unsplash.com/EMQlhm12OfI');
     background-size: cover;
     background-position: center; 
     background-repeat: no-repeat;
+}
+
+.bg-blog-cover { 
+  background-image: images/blog-cover-photo.jpg;
+}
+
+.bg-overlay > * {
+  position: relative;
 }
 
 .bg-overlay::after {
@@ -119,9 +131,8 @@ section { position: relative; }
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(0,0,0,0.3);
 }
-
 
 .bg-overlay > * {
   z-index: 2;
@@ -130,7 +141,7 @@ section { position: relative; }
 /* Add a second class to change the color or style  */
 
 .bg-overlay-gradient::after { 
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0));
+  background-image: linear-gradient(0deg, rgba(10, 134, 72, 0.3), rgba(10, 134, 72, 0));
 } 
 
 .bg-overlay-featured::after { 
@@ -147,6 +158,12 @@ a.bg-image { display: block;}
 .portrait      { padding-bottom: 125%; }
 .square        { padding-bottom: 100%; }
 
+.card {
+  padding: 1.5rem;
+  background-color:#cdb4a7;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
 
 /* Background Position */
 .bg-pos-t { background-position: top; }
@@ -163,26 +180,33 @@ a.bg-image { display: block;}
 .uppercase    { text-transform: uppercase; }
 
 body {
-  font-family: 'Mulish', serif;  /* Add your font here */ 
+  font-family: 'Montserrat', sans-serif;  /* Add your font here */ 
   color: var(--dark-text);
 }
 
-h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', sans-serif;
   line-height: 1.1;
   margin-bottom: 1.2rem;
 }
 
+h1 { 
+  font-size: 1.5rem; 
+  font-weight: 300; 
+}
 h2 { font-size: 2rem; }
 h3 { font-size: 1.8rem; }
 h4 { font-size: 1.6rem; }
 h5 { font-size: 1.4rem; }
 h6 { font-size: 1.2rem; }
 
+.banner { font-size: 2.6rem;}
+
 p, li {
   line-height: 1.4; 
   margin-bottom: 1rem;
-  font-family: 'Martel', serif; 
-  font-weight: 200;
+  font-family: 'Montserrat', sans-serif; 
+  font-weight: 300;
   font-size: 1rem;
 }
 
@@ -205,7 +229,7 @@ p:last-child {
 
 /* ------------ Buttons & Links ------------ */
 a {
-    color: inherit;
+  color: inherit;
 }
 
 a:hover {
@@ -213,8 +237,8 @@ a:hover {
 }
 
 p a {
-    text-decoration: none;
-    border-bottom: 1px solid;
+  text-decoration: none;
+  border-bottom: 1px solid;
 }
 
 p a:hover { 
@@ -222,15 +246,19 @@ p a:hover {
 }
 
 .button { 
-    display: inline-block;
-    text-decoration: none;
-    line-height: 1;
-    padding: 0.5rem 1.5rem;
-    border: 1px solid;
+  display: inline-block;
+  text-decoration: none;
+  background-color: #005C83;
+  color: var(--light-text);
+  line-height: 1;
+  padding: 18px 32px;
+  font-size: 21px;
+  border: 1px solid #005C83;
+  border-radius: 6px;
 }
 
 .button:hover {
-    color: var(--featured-text);
+    color: var(--dark-text);
 }
 
 .subtle-button {
@@ -363,7 +391,7 @@ form textarea {
   width: 100%;
   margin: 0.5rem 0; 
   padding: 0.5rem;
-  border: 2px solid #a2745c;
+  border: 2px solid #005C83;
   outline: none; 
   font-family: inherit;
   font-size: 0.9rem;
@@ -375,21 +403,21 @@ form textarea:focus {
 }
 
 textarea {
-  min-height: 5rem;
+  min-height: 7rem;
   resize: vertical;
 }
 
 form label {
   margin-top: 1rem;
   display: block;
-  color: #a2745c;
+  color: #005C83;
   font-weight: bold;
 }
 
 form button{
-    border: 2px solid #a2745c;
+    border: 2px solid #005C83;
     background: none;
-    color: #a2745c;
+    color: #005C83;
     font-weight: bold;
     padding: 0.5rem 2rem;
     margin-top: 1rem;
@@ -427,7 +455,7 @@ form button{
 /* Individual Blog Post Pages  */
 
 .blog-content h1 {
-  font-family: 'Martel', serif; 
+  font-family: 'Poppins', sans-serif; 
   font-weight: 200;
   font-size: 3rem;
 }
@@ -449,7 +477,7 @@ form button{
   color: var(--medium-text);
 }
 .sidebar-item p {
-  font-family: 'Mulish', serif; 
+  font-family: 'Montserrat', sans-serif; 
   font-weight: 300;
 }
 
@@ -552,6 +580,6 @@ hr.short.center {
 
     .subtle-heading-xs {
       font-weight: 300;
-      font-family: 'Martel', serif; 
+      font-family: 'Poppins', sans-serif; 
     }
 }
