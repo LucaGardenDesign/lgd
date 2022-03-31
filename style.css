@@ -103,9 +103,10 @@ section { position: relative; }
 
 .bg-dark     { background-color: var(--dark);}
 .bg-featured { background-color: var(--featured);}
-.bg-medium   { background-color: var(--medium); }
+.bg-orange   { background-color: var(--orange); }
 .bg-light    { background-color: var(--light); }
 .bg-v-light  { background-color: var(--v-light); }
+  
 
 .bg-image {
     background-color: var(--v-light); /* Set a fall-back color while images are loading */ 
@@ -117,6 +118,10 @@ section { position: relative; }
 
 .bg-blog-cover { 
   background-image: url(/images/blog-cover-photo.jpg);
+}
+
+.bg-gardening { 
+  background-image: url(/images/bg-gardening.jpg);
 }
 
 .bg-overlay > * {
@@ -159,8 +164,8 @@ a.bg-image { display: block;}
 .square        { padding-bottom: 100%; }
 
 .card {
-  padding: 1.5rem;
-  background-color:#cdb4a7;
+  padding: 2rem;
+  background-color: var(--featured);
   border-radius: 5px;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
@@ -184,7 +189,7 @@ body {
   color: var(--dark-text);
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5 {
   font-family: 'Poppins', sans-serif;
   line-height: 1.1;
   margin-bottom: 1.2rem;
@@ -196,9 +201,12 @@ h1 {
 }
 h2 { font-size: 2.2rem; }
 h3 { font-size: 1.8rem; }
-h4 { font-size: 1.6rem; }
-h5 { font-size: 1.4rem; }
-h6 { font-size: 1.2rem; }
+h4 { 
+    font-size: 1.4rem; 
+    font-weight: 300;
+    letter-spacing: 0.9;
+}
+h5 { font-size: 1.2rem; }
 
 .banner { font-size: 2.6rem;}
 
@@ -236,7 +244,7 @@ a {
 }
 
 a:hover {
-  color: var(--featured-text); 
+  color: var(--light-grey-text); 
 }
 
 p a {
@@ -245,7 +253,7 @@ p a {
 }
 
 p a:hover { 
-  color: var(--featured-text); 
+  color: var(--light-grey-text); 
 }
 
 .button { 
@@ -258,6 +266,7 @@ p a:hover {
   font-size: 21px;
   border: 1px solid #005C83;
   border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, .2) 0 3px 5px -1px,rgba(0, 0, 0, .14) 0 6px 10px 0,rgba(0, 0, 0, .12) 0 1px 18px 0;
 }
 
 .button:hover {
@@ -424,6 +433,11 @@ form button{
     font-weight: bold;
     padding: 0.5rem 2rem;
     margin-top: 1rem;
+}
+
+form button:hover {
+  box-shadow: rgba(0, 0, 0, .2) 0 3px 5px -1px,rgba(0, 0, 0, .14) 0 6px 10px 0,rgba(0, 0, 0, .12) 0 1px 18px 0;
+  color: var(--dark-text);
 }
 
 
