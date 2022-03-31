@@ -1,10 +1,10 @@
 ---
 layout: post
-title: My sixth post 
+title: Articolul 6
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur
-author: James
+author: Claudia
 featured: true
-categories: [self care]
+categories: [amenajări grădini]
 featured_image: https://source.unsplash.com/random?sig=2
 seo: 
     title: 

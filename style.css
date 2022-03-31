@@ -3,7 +3,7 @@
 
 /* Font styles */
 /* font-family: 'Montserrat', sans-serif; light 300, regular 400 & italic, medium 500, semibold 600
-font-family: 'Poppins', sans-serif; light 300 & italic, regular 400 & italic, medium 500, semibold 600*/
+   font-family: 'Poppins', sans-serif; light 300 & italic, regular 400 & italic, medium 500, semibold 600*/
 
 /* ----------- CSS RESET --------- */
 
@@ -116,7 +116,7 @@ section { position: relative; }
 }
 
 .bg-blog-cover { 
-  background-image: images/blog-cover-photo.jpg;
+  background-image: url(/images/blog-cover-photo.jpg);
 }
 
 .bg-overlay > * {
@@ -131,7 +131,7 @@ section { position: relative; }
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0,0,0,0.3);
+  background-color: rgba(0,0,0,0.5);
 }
 
 .bg-overlay > * {
@@ -141,7 +141,7 @@ section { position: relative; }
 /* Add a second class to change the color or style  */
 
 .bg-overlay-gradient::after { 
-  background-image: linear-gradient(0deg, rgba(10, 134, 72, 0.3), rgba(10, 134, 72, 0));
+  background-image: linear-gradient(70deg, rgba(0,0,0,0.3), rgba(0,0,0,0));
 } 
 
 .bg-overlay-featured::after { 
@@ -194,7 +194,7 @@ h1 {
   font-size: 1.5rem; 
   font-weight: 300; 
 }
-h2 { font-size: 2rem; }
+h2 { font-size: 2.2rem; }
 h3 { font-size: 1.8rem; }
 h4 { font-size: 1.6rem; }
 h5 { font-size: 1.4rem; }
@@ -206,8 +206,8 @@ p, li {
   line-height: 1.4; 
   margin-bottom: 1rem;
   font-family: 'Montserrat', sans-serif; 
-  font-weight: 300;
-  font-size: 1rem;
+  font-weight: 400;
+  font-size: 1.1rem;
 }
 
 h2:last-child, 
@@ -220,7 +220,10 @@ p:last-child {
 }
 
 /* Unique Typography Styles  */
-.emphasis       { font-size: 1.2rem; }
+.emphasis { 
+  font-size: 1.2rem;
+  font-weight: 500;
+ }
 .text-featured  { color: var(--featured-text);}
 .text-light     { color: var(--light-text);}
 .subtle         { opacity: 0.8;     }
@@ -306,7 +309,7 @@ footer h3 {
     font-size: 1.3rem;
     font-weight: 300;
 }
-.bg-dark-footer   { background-color: #161813;  }
+.bg-dark-footer   { background-color: #80935F;  }
 
 
 /* Dropdown styles */

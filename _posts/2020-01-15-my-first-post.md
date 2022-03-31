@@ -1,14 +1,14 @@
 ---
 layout: post
-title: My first post
+title: Articolul 1
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum,
   ab, eum dolore perspiciatis tenetur alias aspernatur
-author: Tina May
+author: Claudia
 featured: true
 categories:
-  - travel
-  - life
+  - amenajări gradini
+  - plante ornamentale
 featured_image: https://source.unsplash.com/random?sig=7
 seo:
   title:

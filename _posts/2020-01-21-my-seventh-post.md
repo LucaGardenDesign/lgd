@@ -1,14 +1,14 @@
 ---
 layout: post
-title: My seventh post
+title: Articolul 7
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum,
   ab, eum dolore perspiciatis tenetur alias aspernatur
-author: Lucy
+author: Claudia
 featured: true
 categories:
-  - self care
-  - food
+  - plante ornamentale
+  - piatră naturală
 featured_image: https://source.unsplash.com/random?sig=10
 seo:
   title:

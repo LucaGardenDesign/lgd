@@ -1,10 +1,10 @@
 ---
 layout: post
-title: My fifth post 
+title: Articolul 5
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur
-author: Tina
+author: Claudia
 featured: true
-categories: [travel]
+categories: [plante ornamentale]
 featured_image: https://source.unsplash.com/random?sig=3
 seo: 
     title: 

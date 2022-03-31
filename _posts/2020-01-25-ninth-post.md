@@ -1,10 +1,10 @@
 ---
 layout: post-with-sidebar
-title: My ninth post 
+title: Articolul 9
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur
-author: Catherine
+author: Claudia
 featured: true
-categories: [life, self care]
+categories: [amenajări gradini, plante ornamentale]
 featured_image: https://source.unsplash.com/random?sig=8
 seo: 
     title: 

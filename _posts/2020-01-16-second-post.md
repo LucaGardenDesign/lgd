@@ -1,10 +1,10 @@
 ---
 layout: post
-title: My second post 
+title: Articolul 2
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur
-author: Daniel
+author: Claudia
 featured: true
-categories: [food]
+categories: [amenajări grădini]
 featured_image: https://source.unsplash.com/random?sig=6
 seo: 
     title: 

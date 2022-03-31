@@ -1,10 +1,10 @@
 ---
 layout: post
-title: My fourth post 
+title: Articolul 4 
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur
-author: Catherine
+author: Claudia
 featured: true
-categories: [life]
+categories: [piatră naturală]
 featured_image: https://source.unsplash.com/random?sig=4
 seo: 
     title: 

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: My eigth post 
+title: Articolul 8
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur
-author: Tina
+author: Claudia
 featured: true
-categories: [life, self care]
+categories: [amenajări gradini, piatră naturală]
 featured_image: https://source.unsplash.com/random?sig=9
 seo: 
     title: 
