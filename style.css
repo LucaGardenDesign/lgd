@@ -171,6 +171,7 @@ section { position: relative; }
   opacity: 0.5;
 } 
 
+.fixed { background-attachment: fixed; }
 /* Aspect Ratios with percentage unit are only effective if the element (the <div>) is inside a parent container or column, it can't be applied to the column itself. */
 
 a.bg-image { display: block;}
@@ -620,6 +621,7 @@ hr.short.center {
   .sm-portrait      { padding-bottom: 125%; }
   .sm-square        { padding-bottom: 100%; }
 
+  .parallax { background-attachment: scroll; }
 }
 
 /* ------- XS Media Query (36em / 576px) --------------- */ 
