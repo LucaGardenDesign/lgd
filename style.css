@@ -255,6 +255,12 @@ p:last-child {
 .subtle         { opacity: 0.8;     }
 .subtitle       { font-size: 0.8rem; }
 
+/* ------------ Icons Styles ------------ */
+
+.las {
+  font-size: 2rem;
+  opacity: 0.8;
+}
 
 /* ------------ Buttons & Links ------------ */
 a {
@@ -557,15 +563,6 @@ hr.short.center {
   margin:auto;
   margin: 1rem auto;
 }
-
-
-/* ------------ Page Name  ----------------------- */
-
-
-
-
-
-
 
 
 
