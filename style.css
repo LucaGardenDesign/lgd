@@ -140,6 +140,11 @@ section { position: relative; }
   background-position: center; 
 }
 
+.bg-shipping{ 
+  background-image: url(/images/free-shipping-banner.jpg);
+  background-position: bottom; 
+}
+
 
 .bg-overlay > * {
   position: relative;
@@ -166,9 +171,9 @@ section { position: relative; }
   background-image: linear-gradient(70deg, rgba(0,0,0,0.3), rgba(0,0,0,0));
 } 
 
-.bg-overlay-featured::before { 
+.bg-overlay-featured::after { 
   background-color: var(--featured);
-  opacity: 0.5;
+  opacity: 0.4;
 } 
 
 .fixed { background-attachment: fixed; }
@@ -226,7 +231,6 @@ h4 {
 }
 h5 { font-size: 1.2rem; }
 
-.banner { font-size: 2.6rem;}
 
 p, li {
   line-height: 1.4; 
@@ -247,13 +251,13 @@ p:last-child {
 
 /* Unique Typography Styles  */
 .emphasis { 
-  font-size: 1.2rem;
-  font-weight: 500;
+  font-size: 1.4rem;
  }
 .text-featured  { color: var(--featured-text);}
 .text-light     { color: var(--light-text);}
 .subtle         { opacity: 0.8;     }
 .subtitle       { font-size: 0.8rem; }
+.banner         { font-size: 2.6rem;}
 
 /* ------------ Icons Styles ------------ */
 
