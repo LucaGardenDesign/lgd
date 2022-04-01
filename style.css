@@ -621,6 +621,7 @@ hr.short.center {
   .sm-padded     { padding: 5%; }
   .sm-padded-1   { padding: 1rem; }
   .sm-padded-05  { padding: 0.5rem; }
+  .sm-padded-2   { padding: 2rem; }
 
   .sm-padded-t-0 { padding-top: 0; }
   .sm-padded-b-0 { padding-bottom: 0; }
@@ -633,7 +634,7 @@ hr.short.center {
   .sm-square        { padding-bottom: 100%; }
 
   .sm-tall-80 { max-height: 80vh;}
-  
+
   .parallax { background-attachment: scroll; }
 }
 
