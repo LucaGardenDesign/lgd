@@ -10,15 +10,24 @@ seo:
   hide-from-google: false
 cards:
  - heading: Amenajări grădini și spații verzi
-   description: Serviciile noastre de arhitectura peisagistică, proiectare și amenajare fac posibil spațiul exterior pe care ți-l dorești. Experienţa de peste 20 de ani și viziunea Luca Garden Design sunt tot ceea ce ai nevoie pentru colțul tău de natură de acasă!
+   description: |- 
+    Serviciile noastre de arhitectura peisagistică, proiectare și amenajare fac posibil spațiul exterior dorit.  
+
+    Experienţa de peste 20 de ani și viziunea Luca Garden Design sunt tot ceea ce ai nevoie pentru colțul tău de natură de acasă!
    featured_image: images/services-1.jpg
    url: /services.html
  - heading: Vânzare de plante ornamentale
-   description: Oferta noastră vastă de plante oranamentale și decorative este creată pentru a deservi stiluri diferite de grădini. Astfel, te poți bucura la tine acasă de cele mai încântătoare plante, fie ele palmieri, mesteceni ori tuia!
+   description: |-
+    Oferta noastră vastă de plante oranamentale și decorative este creată pentru a deservi stiluri diferite de grădini.  
+    
+    Astfel, te poți bucura la tine acasă de cele mai încântătoare plante, fie ele palmieri, mesteceni ori tuia!
    featured_image: images/services-2.jpg
    url: /services.html
  - heading: Amenajări cu piatră naturală
-   description: Îți dorești o casă cu un aspect estetic diferit? Ești pasionat de natură și îți plac peisajele montane? Dacă îți dorești ca grădina ta să adopte stilul tip stâncărie sau alpin, echipa noastră de specialiști îți vine în ajutor!
+   description: |-
+    Îți dorești o casă cu un aspect estetic diferit? Ești pasionat de natură și îți plac peisajele montane?  
+    
+    Dacă îți dorești ca grădina ta să adopte stilul tip stâncărie sau alpin, echipa noastră de specialiști îți vine în ajutor!
    featured_image: images/services-3.jpg
    url: /services.html
 ---
@@ -105,7 +114,7 @@ cards:
                 <div class="bg-image landscape" style="background-image: url('{{item.featured_image}}')"></div>
                 <div class="padded-t-2"> 
                     <h3 class="center padded-b"> {{item.heading}}</h3>
-                    <p> {{item.description}}</p>
+                    <p> {{item.description | markdownify}}</p>
                     <a href="{{item.url}}"> Citește mai mult </a>
                 </div>
             </div>
