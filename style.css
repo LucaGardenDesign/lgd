@@ -324,7 +324,7 @@ p a:hover {
   cursor: pointer;
   position: fixed;
   left: 5%;
-  bottom: 3rem;
+  bottom: 2.2rem;
   z-index: 4;
 }
 .subtle-button {
@@ -433,7 +433,6 @@ footer h3 {
   .hamburger-button.active {
     color: white;
   }
-  
   
   .mobile-menu {
     display: none; 
