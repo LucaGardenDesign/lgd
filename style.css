@@ -744,7 +744,9 @@ hr.short.center {
   .parallax { background-attachment: scroll; }
 }
 
-  .flex-flip-sm { flex-flow: column-reverse ;}
+  .flex-flip-sm {
+  flex-direction: column-reverse;
+}
 
   .slick-prev {left: -10px; }
   .slick-next {right: -10px; }
