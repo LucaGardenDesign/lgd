@@ -109,7 +109,7 @@ section { position: relative; }
 .bg-orange   { background-color: var(--orange); }
 .bg-light    { background-color: var(--light); }
 .bg-v-light  { background-color: var(--v-light); }
-  
+
 
 .bg-image {
     background-color: var(--v-light); /* Set a fall-back color while images are loading */ 
@@ -189,12 +189,75 @@ a.bg-image { display: block;}
 .portrait      { padding-bottom: 125%; }
 .square        { padding-bottom: 100%; }
 
+/*  Card Styles */
+
 .card {
   padding: 2rem;
   background-color: var(--featured);
   border-radius: 5px;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border: 2px solid var(--light);
 }
+
+.card h3 {
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 300;
+  font-size: 1.3rem;
+  letter-spacing: 0.02em;
+}
+
+.card p,
+.card li {
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+/* Photo Gallery Slider */
+
+.slider-container {
+  padding: 5%;
+}
+
+.slider-item{
+  padding: 0.4rem;
+  display: none;
+}
+
+.slider-item:first-child {
+  display: block;
+}
+
+.slick-next {
+  right: 10px;
+}
+.slick-prev {
+  left: 10px;
+}
+.slick-next::before, .slick-prev::before {
+  	font-family: 'Montserrat', sans-serif;
+  	font-size: 20px;
+  	line-height: 1;
+  	opacity: .75;
+  	color: rgb(40,40,40);
+}
+
+.slick-dots{
+  bottom: -10px;
+  left: 0; 
+}
+
+.slick-dots li,
+.slick-dots li button {
+  width: 10px;
+}
+.slick-dots li button::before{
+  color: var(--dark);
+}
+.slick-dots li.slick-active button::before {
+  color: var(--dark);
+}
+
 
 /* Background Position */
 .bg-pos-t { background-position: top; }
@@ -644,6 +707,11 @@ hr.short.center {
 
   .parallax { background-attachment: scroll; }
 }
+
+  .slick-prev {left: -10px; }
+  .slick-next {right: -10px; }
+  .slick-dots { bottom: -10px; }
+
 
 /* ------- XS Media Query (36em / 576px) --------------- */ 
 /* - Styles added here will apply at devices smaller than 576px, or zoomed in equivalent */ 
