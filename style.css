@@ -119,6 +119,14 @@ section { position: relative; }
     background-repeat: no-repeat;
 }
 
+.bg-logo {
+  background-color: var(--v-light);
+  background-image: url('/images/logo-1.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 .bg-blog-cover { 
   background-image: url(/images/blog-cover.jpg);
   background-position: center; 
@@ -451,8 +459,10 @@ nav a:hover {
 
 .logo {
   text-decoration: none;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
+  color: var(--dark-text);
 } 
+
 
 /* ------------------ Footer styles ----------------- */
 
