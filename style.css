@@ -742,15 +742,13 @@ hr.short.center {
   .sm-tall-80 { max-height: 80vh;}
 
   .parallax { background-attachment: scroll; }
-}
 
-  .flex-flip {
-  flex-direction: column-reverse ;
-}
+  .flex-flip { flex-direction: column-reverse;  }
 
   .slick-prev {left: -10px; }
   .slick-next {right: -10px; }
   .slick-dots { bottom: -10px; }
+}
 
 
 /* ------- XS Media Query (36em / 576px) --------------- */ 
