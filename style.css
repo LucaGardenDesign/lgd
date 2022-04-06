@@ -120,8 +120,7 @@ section { position: relative; }
 }
 
 .bg-logo {
-  background-color: var(--v-light);
-  background-image: url('/images/logo-1.png');
+  background-image: url('/images/bg-light-logo.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -458,10 +457,13 @@ nav a:hover {
 }
 
 .logo {
-  text-decoration: none;
-  font-size: 1.5rem;
-  color: var(--dark-text);
-} 
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 300;
+    font-size: 1.9rem;
+    color: var(--dark-text);
+    
+}
 
 
 /* ------------------ Footer styles ----------------- */
