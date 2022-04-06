@@ -9,6 +9,8 @@
 
 <body>
 
+    <a name="top" id="top"></a>
+
     {% include inline-styles.html %}
     
     {% include site-header.html %}
@@ -16,6 +18,11 @@
     {{content}}
 
     {% include site-footer.html %}
+    
+    <div> 
+        <a href="#top" id="goTop" class="goTop-button "> <i class="las la-hand-point-up"></i> </a>
+    </div>
+   
 
     <!-- Javascript  -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>

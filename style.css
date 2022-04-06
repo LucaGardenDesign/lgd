@@ -366,6 +366,27 @@ p:last-child {
 	margin-bottom: 0;
 }
 
+
+/* ------------ Header & Hamburger Menu -------------- */
+header {
+  padding: 1rem 5%;
+}
+
+nav a {
+  padding: 0.25rem 0.5rem;
+  display: inline-block;
+  text-decoration: none;
+}
+nav a:hover {
+color: var(--featured-text);
+}
+
+.logo {
+  text-decoration: none;
+  color: var(--dark-text);
+}
+
+
 /* Unique Typography Styles  */
 .emphasis { 
   font-size: 1.4rem;
@@ -386,6 +407,7 @@ p:last-child {
   font-size: 2.5rem;
   opacity: 0.8;
 }
+
 
 /* ------------ Buttons & Links ------------ */
 a {
@@ -419,10 +441,6 @@ p a:hover {
   box-shadow: rgba(0, 0, 0, .2) 0 3px 5px -1px,rgba(0, 0, 0, .14) 0 6px 10px 0,rgba(0, 0, 0, .12) 0 1px 18px 0;
 }
 
-.button:hover {
-    color: var(--dark-text);
-}
-
 
 .sticky-button { 
   display: inline-block;
@@ -446,28 +464,35 @@ p a:hover {
   border-bottom: 1px solid;
 }
 
+.goTop-button{
+  display: inline-block;
+  text-decoration: none;
+  background-color: #005C83;
+  color: var(--light-text);
+  padding: 8px;
+  font-size: 20px;
+  border: 1px solid #005C83;
+  border-radius: 50%;
+  box-shadow: rgba(0, 0, 0, .2) 0 3px 5px -1px,rgba(0, 0, 0, .14) 0 6px 10px 0,rgba(0, 0, 0, .12) 0 1px 18px 0;
+  cursor: pointer;
+  position: fixed;
+  right: 2%;
+  bottom: 2.2rem;
+  z-index: 4;
+}
+
+.button:hover {
+  color: var(--dark-text);
+}
+.goTop-button:hover{
+  color: var(--dark-text);
+}
+.sticky-button:hover {
+  color: var(--dark-text);
+}
 /* suggested additional styles 
 - .button-inverted, .button-subtle, .button-lg  */
 
-
-/* ------------ Header & Hamburger Menu -------------- */
-header {
-    padding: 1rem 5%;
-}
-
-nav a {
-    padding: 0.25rem 0.5rem;
-    display: inline-block;
-    text-decoration: none;
-}
-nav a:hover {
-  color: var(--featured-text);
-}
-
-.logo {
-    text-decoration: none;
-    color: var(--dark-text);
-}
 
 
 /* ------------------ Footer styles ----------------- */
