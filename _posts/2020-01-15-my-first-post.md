@@ -7,7 +7,7 @@ description: >-
 author: Claudia
 featured: true
 categories:
-  - amenajări gradini
+  - amenajări grădini
   - plante ornamentale
 featured_image: https://source.unsplash.com/random?sig=7
 seo:

@@ -4,7 +4,7 @@ title: Articolul 3
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur
 author: Claudia
 featured: true
-categories: [amenajări gradini, plante ornamentale]
+categories: [amenajări grădini, plante ornamentale]
 featured_image: https://source.unsplash.com/random?sig=5
 seo: 
     title: 

@@ -4,7 +4,7 @@ title: Articolul 8
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur
 author: Claudia
 featured: true
-categories: [amenajări gradini, piatră naturală]
+categories: [amenajări grădini, piatră naturală]
 featured_image: https://source.unsplash.com/random?sig=9
 seo: 
     title: 
