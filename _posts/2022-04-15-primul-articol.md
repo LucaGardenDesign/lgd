@@ -48,9 +48,15 @@ Prima etapă presupune munca propriu-zisă, partea de construcţie. Păm&acirc;n
 Noi vă oferim o gamă variată de servicii:
 
 <<<<<<< HEAD
+<<<<<<< HEAD
  * amenajări grădini şi spaţii verzi,
  * amenajări cu piatră naturală, granit, ardezit
  * amenajări cu plante decorative
+=======
+* amenajări grădini şi spaţii verzi,
+* amenajări cu piatră naturală, granit, ardezit
+* amenajări cu plante decorative
+>>>>>>> parent of 54d5dfd (Update 2022-04-15-primul-articol.md)
 =======
 * amenajări grădini şi spaţii verzi,
 * amenajări cu piatră naturală, granit, ardezit
