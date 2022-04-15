@@ -1,8 +1,12 @@
 ---
 layout: post
 lang: ro
+<<<<<<< HEAD
 title: 'O grădină, o poveste'
 date: 
+=======
+title: O grădină, o poveste
+>>>>>>> d7238520cfb96decc0c01b8e18e18424c560ab99
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum,
   ab, eum dolore perspiciatis tenetur alias aspernatur
@@ -45,15 +49,9 @@ Noi vă oferim o gamă variată de servicii:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
  * amenajări grădini şi spaţii verzi,
  * amenajări cu piatră naturală, granit, ardezit
  * amenajări cu plante decorative
-=======
-* amenajări grădini şi spaţii verzi,
-* amenajări cu piatră naturală, granit, ardezit
-* amenajări cu plante decorative
->>>>>>> parent of 54d5dfd (Update 2022-04-15-primul-articol.md)
 =======
 * amenajări grădini şi spaţii verzi,
 * amenajări cu piatră naturală, granit, ardezit
