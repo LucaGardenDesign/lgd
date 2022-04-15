@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'O grădină, o poveste '
+lang: ro
+title: 'O grădină, o poveste'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum,
   ab, eum dolore perspiciatis tenetur alias aspernatur
@@ -44,8 +45,8 @@ Prima etapă presupune munca propriu-zisă, partea de construcţie. Păm&acirc;n
 
 Noi vă oferim o gamă variată de servicii:
 
-* amenajări grădini şi spaţii verzi,
-* amenajări cu piatră naturală, granit, ardezit
-* amenajări cu plante decorative
+   * amenajări grădini şi spaţii verzi,
+   * amenajări cu piatră naturală, granit, ardezit
+   * amenajări cu plante decorative
 
 Pentru micul tău colţ de rai, echipa noastră &icirc;ţi stă la dispoziţie oriunde &icirc;n ţară\! Consultanţă, amenajare, plante decorative,o echipă profesionistă, toate le găseşti la **&nbsp;Luca Garden Design**\!
