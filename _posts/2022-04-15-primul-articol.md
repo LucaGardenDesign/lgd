@@ -1,8 +1,12 @@
 ---
 layout: post
 lang: ro
+<<<<<<< HEAD
 title: 'O grădină, o poveste'
 date: 
+=======
+title: O grădină, o poveste
+>>>>>>> d7238520cfb96decc0c01b8e18e18424c560ab99
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum,
   ab, eum dolore perspiciatis tenetur alias aspernatur
