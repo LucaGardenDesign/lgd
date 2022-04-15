@@ -42,8 +42,8 @@ Prima etapă presupune munca propriu-zisă, partea de construcţie. Păm&acirc;n
 
 Noi vă oferim o gamă variată de servicii:
 
-* amenajări grădini şi spaţii verzi,
-* amenajări cu piatră naturală, granit, ardezit
-* amenajări cu plante decorative
+- amenajări grădini şi spaţii verzi,
+- amenajări cu piatră naturală, granit, ardezit
+- amenajări cu plante decorative
 
 Pentru micul tău colţ de rai, echipa noastră &icirc;ţi stă la dispoziţie oriunde &icirc;n ţară\! Consultanţă, amenajare, plante decorative,o echipă profesionistă, toate le găseşti la **&nbsp;Luca Garden Design**\!
