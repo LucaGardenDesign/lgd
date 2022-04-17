@@ -1,3 +1,5 @@
+lang: ro
+
 collections:
   posts:
     output: true

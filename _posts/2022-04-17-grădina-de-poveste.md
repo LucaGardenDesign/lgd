@@ -11,7 +11,7 @@ featured: true
 categories:
   - amenajări grădini
 featured_image: /uploads/garden-g0d0eb6064-1280-1.jpg
-url: https://plain-wasp.cloudvent.net/posts/2022/grădina-de-poveste
+url: 
 seo:
   title:
   description:
