@@ -11,7 +11,7 @@ featured: true
 categories:
   - amenajări grădini
 featured_image: /uploads/garden-g0d0eb6064-1280-1.jpg
-url: 
+url: /posts/2022-04-17-grădina-de-poveste.md
 seo:
   title:
   description:
