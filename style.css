@@ -516,6 +516,7 @@ footer p {
  
 footer h3 {
     font-size: 1.7rem;
+    letter-spacing: -0.3px;
     font-weight: 600;
 }
 .bg-dark-footer   { background-color: #80935F;  }
