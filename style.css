@@ -383,6 +383,7 @@ color: var(--featured-text);
 
 .logo {
   text-decoration: none;
+  letter-spacing: -0.3px;
   color: var(--dark-text);
 }
 
@@ -464,13 +465,13 @@ p a:hover {
   border-bottom: 1px solid;
 }
 
-.goTop-button{
+.la-chevron-up{
   display: inline-block;
   text-decoration: none;
   background-color: #005C83;
   color: var(--light-text);
   padding: 8px;
-  font-size: 20px;
+  font-size: 1.8rem;
   border: 1px solid #005C83;
   border-radius: 50%;
   box-shadow: rgba(0, 0, 0, .2) 0 3px 5px -1px,rgba(0, 0, 0, .14) 0 6px 10px 0,rgba(0, 0, 0, .12) 0 1px 18px 0;
