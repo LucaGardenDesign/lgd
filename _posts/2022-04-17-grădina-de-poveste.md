@@ -21,7 +21,7 @@ seo:
 
 sursa: https://pixabay.com/ro/photos/grădină-flori-plante-flori-roz-670516/
 
-## **O grădină, o poveste **
+## **O grădină, o poveste**
 
 O casă frumoasă respiră printr-o grădină verde. Plantele, cadrul natural, aerul proaspăt, poate şipotul unui mic p&acirc;rău care curge liniştit strecur&acirc;ndu-se printre pietricele de r&acirc;u sau o minunată f&acirc;nt&acirc;nă arteziană &icirc;nconjurată de arbuşti spiralaţi de tuia verde sau aurie, de palmieri sau ficuşi, minunatele alei de ardezit sau granit, mirosul inconfundabil al florilor de magnolie, toate acestea te duc cu g&acirc;ndul la un adevărat colţ de rai.&nbsp; Nu vorbim &icirc;nsă de o insulă exotică, aflată undeva, &icirc;ntr-o ţară &icirc;ndepărtată, ci de un mic paradis, chiar &icirc;n curtea casei tale.
 
