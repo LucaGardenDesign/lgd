@@ -9,7 +9,7 @@ author: Claudia
 featured: true
 categories:
   - amenajări grădini
-featured_image: https://pixabay.com/ro/photos/grădină-flori-plante-flori-roz-670516/
+featured_image: /uploads/garden-g0d0eb6064-1280-1.jpg
 seo:
   title:
   description:
