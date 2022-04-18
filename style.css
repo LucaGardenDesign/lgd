@@ -427,6 +427,10 @@ p a:hover {
   color: var(--light-grey-text); 
 }
 
+span a:hover{
+  color: var(--light-text)
+}
+
 
 .button { 
   display: inline-block;
