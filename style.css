@@ -488,6 +488,8 @@ span a:hover{
 .button:hover {
   color: var(--dark-text);
 }
+
+
 .goTop-button:hover{
   color: var(--dark-text);
 }
