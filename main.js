@@ -27,8 +27,12 @@ $('.slider-container').slick({
   ]
 });
 
-type='text/javascript'>
-$('#goTop').on('click', function(e){
-    $("html, body").animate({scrollTop: $("#top").offset().top}, 500);
-});
+// type='text/javascript'>
+// $('#goTop').on('click', function(e){
+//     $("html, body").animate({scrollTop: $("#top").offset().top}, 500);
+// });
 
+function scrollToTop() {
+     window.scrollTo(0, 0);
+}
+  
