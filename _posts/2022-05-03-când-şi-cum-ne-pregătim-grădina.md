@@ -21,7 +21,7 @@ seo:
 ---
 &nbsp;
 
-**Personalitatea grădinii tale **
+**Personalitatea grădinii tale**
 
 Sunt o multitudine de tipuri de plante ornamentale care pot fi folosite pentru a-ţi&nbsp; &icirc;nfrumuseţa micul tău colţ de natură. O grădină frumoasă, vie şi veselă este plină de culoare şi texturi diferite.
 
