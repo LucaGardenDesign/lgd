@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: ro
-title: 'Personalitatea grădinii tale '
+title: Cum să oferi personalitate grădinii tale
 description: >-
   Sunt o multitudine de tipuri de plante ornamentale care pot fi folosite pentru
   a-ţi  înfrumuseţa micul tău colţ de natură. O grădină frumoasă, vie şi veselă
@@ -19,9 +19,7 @@ seo:
   keywords:
   hide-from-google: false
 ---
-&nbsp;
-
-**Personalitatea grădinii tale**
+**![](/uploads/img-20220403-wa0011-1.jpg){: width="1080" height="1426"}**
 
 Sunt o multitudine de tipuri de plante ornamentale care pot fi folosite pentru a-ţi&nbsp; &icirc;nfrumuseţa micul tău colţ de natură. O grădină frumoasă, vie şi veselă este plină de culoare şi texturi diferite.
 
