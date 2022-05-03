@@ -9,7 +9,7 @@ description: >-
 author: Claudia
 featured: true
 categories:
-  - amenajări grădini
+  - plante ornamentale
 featured_image: /uploads/img-20220403-wa0011.jpg
 url:
 seo:
@@ -33,6 +33,8 @@ Plantele decorative sau ornamentale creează personalitatea grădinii. Acestea s
 
 Fiecare plantă este un organism viu, tocmai de aceea, ea are locul ei &icirc;n amenajarea grădinii. Unul dintre elemente importante ale grădinii sunt arbuştii. &nbsp;Aceştia sunt plante decorative speciale care &icirc;nfrumuseţează grădina şi scot &icirc;n evidenţă culorile minunate ale florilor. Arbuştii se pot planta at&acirc;t separat, c&acirc;t şi &icirc;n grup. Culoarea şi textura acestora oferă personalitatea grădinii: misterioasă, magică, gingaşă, exotică. Noi, cei de la **Luca Garden Design** venim &icirc;n &icirc;nt&acirc;mpinarea clienţilor cu mai multe tipuri de arbuşti, din diverse familii:
 
+&nbsp;
+
 * **Conifere:**
 
 1. Tuia Spirală Verde
@@ -48,6 +50,8 @@ Fiecare plantă este un organism viu, tocmai de aceea, ea are locul ei &icirc;n 
 11. Chiparos leyland (Cupressocyparis)
 12. Photinia Tufă
 
+&nbsp;
+
 * **Foioase:**
 
 1. Platan &nbsp;
@@ -55,14 +59,22 @@ Fiecare plantă este un organism viu, tocmai de aceea, ea are locul ei &icirc;n 
 3. Alun roşu
 4. Brad argintiu
 
+&nbsp;
+
 * **Plante cu flori**
 
+&nbsp;
+
 1. Catalpa
+
+&nbsp;
 
 * **Arbori de magnolie:**
 
 1. Magnolie Grandiflora ghiveci
 2. Magnolie Soulangeana balot
+
+&nbsp;
 
 * **Plante exotice**
 
