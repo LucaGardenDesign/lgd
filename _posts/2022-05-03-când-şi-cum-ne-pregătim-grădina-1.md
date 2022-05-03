@@ -20,7 +20,7 @@ seo:
   keywords:
   hide-from-google: false
 ---
-**C&acirc;nd şi cum ne pregătim grădina**
+**![](/uploads/img-20220330-wa0058-1.jpg){: width="1600" height="1200"}C&acirc;nd şi cum ne pregătim grădina**
 
 Anotimpul cel mai potrivit pentru amenajarea grădinii este primăvara.&nbsp; Martie, aprilie, mai sunt lunile care oferă cele mai bune condiţii pentru pregătirea optimă a păm&acirc;ntului, pentru ca spaţiul grădinii tale să se menţină vede, frumos şi sănătos p&acirc;nă la venirea iernii.
 
