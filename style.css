@@ -409,6 +409,12 @@ color: var(--featured-text);
   opacity: 0.8;
 }
 
+.fab {
+  font-size: 2.5rem;
+  opacity: 0.8;
+}
+
+
 /* ------------ Buttons & Links ------------ */
 a {
   color: inherit;
