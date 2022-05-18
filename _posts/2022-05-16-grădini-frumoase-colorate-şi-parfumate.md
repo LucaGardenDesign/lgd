@@ -20,7 +20,7 @@ seo:
 
 sursa: [Pexels](https://www.pexels.com/photo/green-leafed-trees-on-forest-147640/){: target="_blank" rel="noopener"}
 
-**Grădini frumoase, colorate şi parfumate**
+**Grădini frumoase, colorate şi parfumate &icirc;n c&acirc;țiva pași simpli**
 
 Ne place să spunem, că unei case frumoase, &icirc;i stă bine bine l&acirc;ngă o grădină minunată.&nbsp; Splendoarea unei grădini constă &icirc;n multitudinea de flori, de culori şi de miresme. Un alt element care &icirc;nc&acirc;ntă şi cel mai critic ochi sunt plantele verzi, pentru că oferă senzaţia de spaţiu, de natură, de prospeţime, de relaxare şi creează o stare de bine şi de entuziasm.
 
