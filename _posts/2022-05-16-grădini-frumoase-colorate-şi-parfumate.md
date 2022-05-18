@@ -12,7 +12,7 @@ url:
 seo:
   title:
   description:
-  social_image:
+  social_image: /uploads/gradina-1.jpg
   keywords:
   hide-from-google: false
 ---
