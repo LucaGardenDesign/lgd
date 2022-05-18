@@ -8,7 +8,7 @@ featured: true
 categories:
   - arhitectură grădini
 featured_image: /uploads/gradina.jpg
-url:
+url: 
 seo:
   title:
   description:
