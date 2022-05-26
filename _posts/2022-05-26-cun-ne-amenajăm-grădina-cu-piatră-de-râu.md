@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: ro
-title: Cun ne amenajăm grădina cu piatră de râu
+title: Cum ne amenajăm grădina cu piatră de râu
 description: >+
   Crearea unei grădini care încântă orice privire presupune o armonizare între
   mai multe elemente specifice: plante ornamentale verzi, plante cu flori,
