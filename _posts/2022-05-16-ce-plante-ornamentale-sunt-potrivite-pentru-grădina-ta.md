@@ -21,7 +21,7 @@ seo:
 ---
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
 
-**Ce plante ornamentale sunt potrivite pentru grădina ta**
+&nbsp;
 
 **![](/uploads/pexels-max-vakhtbovych-7061662-1.jpg){: width="1200" height="801"}**
 
