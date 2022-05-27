@@ -14,7 +14,7 @@ author: Claudia
 featured: true
 categories:
   - amenajări grădini cu piatră de râu
-featured_image: /uploads/pexels-nandhu-kumar-312839-1.jpg
+featured_image: /uploads/pexels-nandhu-kumar-312839-1-2.jpg
 url:
 seo:
   title:
@@ -25,27 +25,21 @@ seo:
 ---
 &nbsp;
 
-&nbsp;
+![](/uploads/pexels-nandhu-kumar-312839-1-2.jpg){: width="14400" height="9600"}
 
-![](/uploads/pexels-nandhu-kumar-312839-1.jpg){: width="14400" height="9600"}
+&nbsp;
 
 Sursa: Pexels
 
 Crearea unei grădini care &icirc;nc&acirc;ntă orice privire presupune o armonizare &icirc;ntre mai multe elemente specifice: plante ornamentale verzi, plante cu flori, arbori, piatră naturală, granit, ardezit sau lemn. &Icirc;n articolul de azi al blogului nostru, ne-am propus să vorbim despre piatra naturală de r&acirc;u, pentru a oferi celor interesaţi c&acirc;t mai multe informaţii utile, pentru a putea realiza cele mai bune alegeri &icirc;n amenajarea propriei grădini.
 
-&nbsp;
-
 **Amenajări interioare şi exterioare**
 
 Piatra de r&acirc;u este folosită de secole &icirc;ntregi, fiind extrem de apreciată pentru aspectul și pentru longevitatea sa. Este frumoasă și naturală, cu o linie de design unică și spectaculoasă. Este potrivită at&acirc;t pentru amenajari interioare, c&acirc;t și exterioare. De la baie, la bucătărie sau living, p&acirc;nă la grădina sau aleea casei, piatra de r&acirc;u creează o simbioza &icirc;ntre spațiul casei tale și armonia perfectă a naturii\!
 
-&nbsp;
-
 **Grădină &icirc;n pantă, cu piatră de r&acirc;u**
 
 &Icirc;n amenajarea grădinilor, datorită formei şi structurii sale permisive, piatra de r&acirc;u este folosită la crearea de iazuri, amfore, f&acirc;nt&acirc;ni, trepte, pavaje, ziduri, alei şi multe altele. Piatra ajută, de asemenea, la delimitarea grădinii, cre&acirc;nd mai multe spaţii, fiecare cu un anumit specific, unic, original. O grădină &icirc;n pantă amenajată cu piatră de rău este o idee excelentă, deoarece etajarea terenului folosind scări din lespezi de piatră şi a unor bolovani, oferă grădinii un aspect natural şi un aer autentic.
-
-&nbsp;
 
 **Structură, formă, culoare**
 
