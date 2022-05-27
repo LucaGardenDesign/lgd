@@ -14,7 +14,7 @@ author: Claudia
 featured: true
 categories:
   - amenajări grădini cu piatră de râu
-featured_image: /uploads/pexels-nandhu-kumar-312839-1-1.jpg
+featured_image: /uploads/pexels-nandhu-kumar-312839-1.jpg
 url:
 seo:
   title:
@@ -25,7 +25,9 @@ seo:
 ---
 &nbsp;
 
-**![](/uploads/pexels-nandhu-kumar-312839-1-1.jpg){: width="1200" height="800"}**
+&nbsp;
+
+![](/uploads/pexels-nandhu-kumar-312839-1.jpg){: width="14400" height="9600"}
 
 Sursa: Pexels
 
