@@ -10,7 +10,7 @@ author: Claudia
 featured: true
 categories:
   - plante ornamentale
-featured_image: /uploads/pexels-max-vakhtbovych-7174105-1-1.jpg
+featured_image: /uploads/pexels-max-vakhtbovych-7174105-1-1-1.jpg
 url:
 seo:
   title:
@@ -21,7 +21,7 @@ seo:
 ---
 &nbsp;
 
-![](/uploads/pexels-max-vakhtbovych-7174105-1-1.jpg){: width="1200" height="801"}
+![](/uploads/pexels-max-vakhtbovych-7174105-1-1-1.jpg){: width="1200" height="801"}
 
 Sursa: Pexels
 
