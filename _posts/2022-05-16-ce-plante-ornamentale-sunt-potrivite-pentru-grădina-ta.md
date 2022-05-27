@@ -10,7 +10,7 @@ author: Claudia
 featured: true
 categories:
   - plante ornamentale
-featured_image: /uploads/arborvitae-ga8965e508-1920-jpg-tuia.jpg
+featured_image: /uploads/pexels-max-vakhtbovych-7061662-1.jpg
 url:
 seo:
   title:
@@ -19,9 +19,13 @@ seo:
   keywords:
   hide-from-google: false
 ---
-![](/uploads/img-20220403-wa0006-1.jpg){: width="723" height="1132"}&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
 
 **Ce plante ornamentale sunt potrivite pentru grădina ta**
+
+**![](/uploads/pexels-max-vakhtbovych-7061662-1.jpg){: width="1200" height="801"}**
+
+Sursa: Pexels
 
 Ai o casă frumoasă și vrei o grădină verde, plină de culori și miresme? La ora actuală există o multitudine de idei și stiluri arhitecturale, care &icirc;ți pot transforma curtea casei &icirc;ntr-un spațiu natural, viu și foarte sănătos. Echipa noastră de specialiști te pot ghida &icirc;n alegerea perfectă a plantelor și a florilor care se potrivesc perfect &icirc;n grădina ta. Avem o gamă variată de plante ornamentale, verzi sau cu flori, din diferite specii, culori sau texturi. Pentru ca dumneavoastră să puteți face alegerea potrivită, vă prezentăm oferta **Luca Garden Design,** care variază &icirc;n funcție de preț, dimensiune și specie. Vă stăm de asemenea la dispoziție cu consultanță, idei și sugestii. La orice achiziție, transportul este inclus &icirc;n prețul acesteia.
 
