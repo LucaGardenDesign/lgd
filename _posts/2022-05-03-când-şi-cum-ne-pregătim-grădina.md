@@ -10,7 +10,7 @@ author: Claudia
 featured: true
 categories:
   - plante ornamentale
-featured_image: /uploads/img-20220403-wa0011.jpg
+featured_image: /uploads/pexels-max-vakhtbovych-7174105-1-1.jpg
 url:
 seo:
   title:
@@ -19,7 +19,11 @@ seo:
   keywords:
   hide-from-google: false
 ---
-**![](/uploads/img-20220403-wa0011-1.jpg){: width="1080" height="1426"}**
+&nbsp;
+
+![](/uploads/pexels-max-vakhtbovych-7174105-1-1.jpg){: width="1200" height="801"}
+
+Sursa: Pexels
 
 Sunt o multitudine de tipuri de plante ornamentale care pot fi folosite pentru a-ţi&nbsp; &icirc;nfrumuseţa micul tău colţ de natură. O grădină frumoasă, vie şi veselă este plină de culoare şi texturi diferite.
 
