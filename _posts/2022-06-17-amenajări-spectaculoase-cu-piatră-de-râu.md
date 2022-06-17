@@ -22,9 +22,7 @@ seo:
   keywords:
   hide-from-google: false
 ---
-**Amenajări spectaculoase cu piatră de r&acirc;u**
-
-**![](/uploads/img-20220611-wa0024-1-1.jpg){: width="19200" height="6024"}**
+<br>**![](/uploads/img-20220611-wa0024-1-1.jpg){: width="19200" height="6024"}**
 
 Piatra de r&acirc;u nu este un material pretenţios sau foarte costisitor &icirc;nsă &icirc;n m&acirc;inile unor adevăraţi profesionişti, cu multă imaginaţie, se pot realiza cele mai inedite produse &icirc;n amenajarea grădinilor. Modelele care se pot construi sunt diverse, de la linii ondulate sau petale de flori, p&acirc;nă la modele geometrice complicate.
 
