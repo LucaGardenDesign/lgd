@@ -30,6 +30,8 @@ _options:
     underline: true
     strike: true
     image: true
-
+url: "https://lucagardendesign.ro"
+plugins:
+  - jekyll-sitemap
 
     
