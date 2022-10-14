@@ -14,7 +14,7 @@ author: Claudia
 featured: true
 categories:
   - amenajări grădini cu piatră de râu
-featured_image: /uploads/pexels-nandhu-kumar-312839-1-2.jpg
+featured_image: /uploads/sean-stratton-obpce-x3j6u-unsplash11-1.jpg
 url:
 seo:
   title:
