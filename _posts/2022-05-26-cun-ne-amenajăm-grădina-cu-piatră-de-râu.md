@@ -25,7 +25,7 @@ seo:
 ---
 &nbsp;
 
-![](/uploads/sean-stratton-obpce-x3j6u-unsplash11.jpg){: width="1200" height="800"}
+&nbsp;
 
 &nbsp;
 
