@@ -25,11 +25,11 @@ seo:
 ---
 &nbsp;
 
-![](/uploads/pexels-nandhu-kumar-312839-1-2.jpg){: width="14400" height="9600"}
+![](/uploads/sean-stratton-obpce-x3j6u-unsplash11.jpg){: width="1200" height="800"}
 
 &nbsp;
 
-Sursa: Pexels
+Sursa: [Unsplash](https://unsplash.com/photos/ObpCE_X3j6U)
 
 Crearea unei grădini care &icirc;nc&acirc;ntă orice privire presupune o armonizare &icirc;ntre mai multe elemente specifice: plante ornamentale verzi, plante cu flori, arbori, piatră naturală, granit, ardezit sau lemn. &Icirc;n articolul de azi al blogului nostru, ne-am propus să vorbim despre piatra naturală de r&acirc;u, pentru a oferi celor interesaţi c&acirc;t mai multe informaţii utile, pentru a putea realiza cele mai bune alegeri &icirc;n amenajarea propriei grădini.
 
