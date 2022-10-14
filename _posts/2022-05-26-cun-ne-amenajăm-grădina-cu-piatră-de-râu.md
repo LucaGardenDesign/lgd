@@ -14,7 +14,7 @@ author: Claudia
 featured: true
 categories:
   - amenajări grădini cu piatră de râu
-featured_image: /uploads/pexels-nandhu-kumar-312839-1-2.jpg
+featured_image: /uploads/sean-stratton-obpce-x3j6u-unsplash11-1.jpg
 url:
 seo:
   title:
@@ -23,13 +23,13 @@ seo:
   keywords:
   hide-from-google: false
 ---
-&nbsp;
-
-![](/uploads/pexels-nandhu-kumar-312839-1-2.jpg){: width="14400" height="9600"}
+![](/uploads/sean-stratton-obpce-x3j6u-unsplash11-1.jpg){: width="1200" height="800"}
 
 &nbsp;
 
-Sursa: Pexels
+&nbsp;
+
+Sursa: Unsplash
 
 Crearea unei grădini care &icirc;nc&acirc;ntă orice privire presupune o armonizare &icirc;ntre mai multe elemente specifice: plante ornamentale verzi, plante cu flori, arbori, piatră naturală, granit, ardezit sau lemn. &Icirc;n articolul de azi al blogului nostru, ne-am propus să vorbim despre piatra naturală de r&acirc;u, pentru a oferi celor interesaţi c&acirc;t mai multe informaţii utile, pentru a putea realiza cele mai bune alegeri &icirc;n amenajarea propriei grădini.
 
