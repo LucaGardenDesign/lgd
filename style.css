@@ -116,7 +116,7 @@ section { position: relative; }
 
 .bg-image {
     background-color: var(--v-light); /* Set a fall-back color while images are loading */ 
-    background-image: url('https://source.unsplash.com/EMQlhm12OfI');
+    background-image: url('/images/main_banner.webp');
     background-size: cover;
     background-position: center; 
     background-repeat: no-repeat;
