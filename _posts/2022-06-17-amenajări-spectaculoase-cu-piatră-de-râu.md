@@ -13,7 +13,7 @@ author: Claudia
 featured: true
 categories:
   - amenajări piatră naturală
-featured_image: /uploads/img-20220611-wa0028-1.jpg
+featured_image: /uploads/pexels-pixabay-531896-2.webp
 url:
 seo:
   title:
@@ -22,7 +22,7 @@ seo:
   keywords:
   hide-from-google: false
 ---
-<br>**![](/uploads/img-20220611-wa0024-1-1.jpg){: width="19200" height="6024"}**
+<br>![](/uploads/pexels-pixabay-531896-1.webp){: width="1200" height="798"}
 
 Piatra de r&acirc;u nu este un material pretenţios sau foarte costisitor &icirc;nsă &icirc;n m&acirc;inile unor adevăraţi profesionişti, cu multă imaginaţie, se pot realiza cele mai inedite produse &icirc;n amenajarea grădinilor. Modelele care se pot construi sunt diverse, de la linii ondulate sau petale de flori, p&acirc;nă la modele geometrice complicate.
 
