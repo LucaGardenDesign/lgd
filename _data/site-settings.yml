@@ -1,19 +1,18 @@
 seo: 
   site_name: Luca Garden Design
-  title: Luca Garden Design
-  description: 
-  keywords: 
-  social_image: 
-  author: 
-  favicon_image: 
+  title: Amenajări grădini cu plante ornamentale și piatră naturală 
+  description: Imaginați-vă propria grădină de vis, iar noi vom face posibilă amenajarea ei cu piatră naturală si cele mai frumoase plante ornamentale! Citiți mai mult.
+  keywords: amenajări grădini, amenajări cu piatră naturală, amenajări cu plante ornamentale, amenajări grădini București, servicii de peisagistică
+  social_image: /images/social-image.webp
+  author: Develveren
+  favicon_image: /icons/favicon.ico
 social: 
-  instagram_username:
-  facebook_url:
-  twitter_username: 
+  instagram_username: https://www.instagram.com/p/CcBR95ENQlo/
+  facebook_url: https://www.facebook.com/lucaartgarden/ 
 design: 
   dark-text_color: '#14170f'
   medium-text_color: 'rgb(90,90,95)'
-  light-text_color: 'white'
+  light-text_color: '#ffffff'
   light-grey-text_color: '#e3e7db'
   featured-text_color: '#87a84f'
   dark_color: '#14170f'
