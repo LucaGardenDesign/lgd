@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: ro
-title: Grădina de poveste
+title: Cum amenajezi o grădină de poveste la tine acasă
 description: >-
   O grădină frumoasă, este oaza ta de relaxare fără a călatori în locuri
   îndepărtate. Noi îți arătăm că deși amenajarea unei grădini necesită efort, cu

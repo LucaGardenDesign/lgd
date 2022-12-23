@@ -707,7 +707,7 @@ form button:hover {
 }
 
 .post-info {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   color: var(--medium-text);
 }
 
@@ -844,14 +844,15 @@ hr.short.center {
 /* - Styles added here will apply at devices smaller than 576px, or zoomed in equivalent */ 
 
 @media(max-width:36em) {
-    body {
-      font-size: 1.1rem;
-    }
+    p { font-size: 1.3rem;    }
 		.show-xs { display: block; }
 		.hide-xs { display: none;  }
 
     .subtle-heading-xs {
       font-weight: 300;
       font-family: 'Poppins', sans-serif; 
+    }
+    ul.share-buttons li {
+      margin: 5%;
     }
 }
