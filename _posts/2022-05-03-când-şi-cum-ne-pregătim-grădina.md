@@ -1,16 +1,17 @@
 ---
 layout: post
 lang: ro
-title: Cum să oferi personalitate grădinii tale
+title: Când şi cum ne pregătim grădina
 description: >-
-  Sunt o multitudine de tipuri de plante ornamentale care pot fi folosite pentru
-  a-ţi  înfrumuseţa micul tău colţ de natură. O grădină frumoasă, vie şi veselă
-  este plină de culoare şi texturi diferite.
+  Anotimpul cel mai potrivit pentru amenajarea grădinii este primăvara.  Martie,
+  aprilie, mai sunt lunile care oferă cele mai bune condiţii pentru pregătirea
+  optimă a pământului, pentru ca spaţiul grădinii tale să se menţină vede,
+  frumos şi sănătos până la venirea iernii.
 author: Claudia
 featured: true
 categories:
-  - plante ornamentale
-featured_image: /uploads/pexels-max-vakhtbovych-7174105-1-1-1.jpg
+  - arhitectură grădini
+featured_image: /uploads/pexels-anna-shvets-5029814-1-1.jpg
 url:
 seo:
   title:
@@ -19,74 +20,19 @@ seo:
   keywords:
   hide-from-google: false
 ---
-&nbsp;
-
-![](/uploads/pexels-max-vakhtbovych-7174105-1-1-1.jpg){: width="1200" height="801"}
+![](/uploads/pexels-anna-shvets-5029814-1-1.jpg){: width="1200" height="1800"}
 
 Sursa: Pexels
 
-Sunt o multitudine de tipuri de plante ornamentale care pot fi folosite pentru a-ţi&nbsp; &icirc;nfrumuseţa micul tău colţ de natură. O grădină frumoasă, vie şi veselă este plină de culoare şi texturi diferite.
+Anotimpul cel mai potrivit pentru amenajarea grădinii este primăvara.&nbsp; Martie, aprilie, mai sunt lunile care oferă cele mai bune condiţii pentru pregătirea optimă a păm&acirc;ntului, pentru ca spaţiul grădinii tale să se menţină vede, frumos şi sănătos p&acirc;nă la venirea iernii.
 
-**Plante decorative, un organism viu**
+**Plantele prind viață primăvara**
 
-Plantele decorative sau ornamentale creează personalitatea grădinii. Acestea se metamorfozează, capătă viaţă şi transformă grădina &icirc;ntr-un organism verde. Prin concept, vizune, creativitate şi o vastă experienţă &icirc;n arta peisagistică, &nbsp;echipa noastră pictează un tablou al naturii &icirc;n curtea casei tale\!
+Din experienţa noastră &icirc;n grădinărit, am observat că proiectele care dau rezultate spectaculoase &icirc;n crearea sau amenajarea unei grădini &icirc;ncep primăvara. De ce &icirc;n primul sezon al anului randamentul este cel mai bun, iar grădina ta are pe tot parcursul acestuia aspectul pe care ţi-l doreşti? Avem răspunsul pregătit pentru clienţii noştri: plantele &icirc;ncă nu sunt &icirc;nflorite, abia acum prind viaţă şi &icirc;ncep să prindă forţă &icirc;n tulpinile lor subţiri şi fragile, de aceea pot fi uşor mutate sau plantate, av&acirc;nd mai multe şanse ,,să se prindă”, să &icirc;ncolţească, să rodească, dec&acirc;t &icirc;n orice altă perioadă a anului.
 
-**Arbuşti ornamentali**
+**Curăţenia de primăvară**
 
-Fiecare plantă este un organism viu, tocmai de aceea, ea are locul ei &icirc;n amenajarea grădinii. Unul dintre elemente importante ale grădinii sunt arbuştii. &nbsp;Aceştia sunt plante decorative speciale care &icirc;nfrumuseţează grădina şi scot &icirc;n evidenţă culorile minunate ale florilor. Arbuştii se pot planta at&acirc;t separat, c&acirc;t şi &icirc;n grup. Culoarea şi textura acestora oferă personalitatea grădinii: misterioasă, magică, gingaşă, exotică. Noi, cei de la **Luca Garden Design** venim &icirc;n &icirc;nt&acirc;mpinarea clienţilor cu mai multe tipuri de arbuşti, din diverse familii:
-
-&nbsp;
-
-* **Conifere:**
-
-1. Tuia Spirală Verde
-2. Tuia Spirală Aurie
-3. Tuia Leyland
-4. Tuia Smaragd
-5. Pom Pon balot
-6. Pom Pon ghivechi&nbsp;
-7. Ienupăr t&acirc;r&acirc;tor
-8. Cupressocyparis
-9. Juniperus Mint Julep
-10. Photinia fraserii Red Robin
-11. Chiparos leyland (Cupressocyparis)
-12. Photinia Tufă
-
-&nbsp;
-
-* **Foioase:**
-
-1. Platan &nbsp;
-2. Mesteacăn
-3. Alun roşu
-4. Brad argintiu
-
-&nbsp;
-
-* **Plante cu flori**
-
-&nbsp;
-
-1. Catalpa
-
-&nbsp;
-
-* **Arbori de magnolie:**
-
-1. Magnolie Grandiflora ghiveci
-2. Magnolie Soulangeana balot
-
-&nbsp;
-
-* **Plante exotice**
-
-1. Palmieri&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-
-* **Lavandă**
-
-&nbsp;
-
-&nbsp;
+O grădină creată de la zero, amenajarea sau reamenajarea ei &icirc;ncepe printr-o curăţenie. Nu &icirc;nt&acirc;mplător, &icirc;n popor avem aşa numita ,,curăţenie de primăvară”, &icirc;n care, oamenii aruncă, ard, elimină tot ceea ce nu mai este folositor şi dăunează naturii. &Icirc;n acelaşi mod stau lucrurile şi &icirc;n proiectul de construcţie al unei grădini. Aruncăm tot ce este vechi si nu mai este util, cu alte cuvinte, ne debarasăm de rămaşiţele şi resturile de plante moarte din anul care tocmai a trecut.
 
 &nbsp;
 
