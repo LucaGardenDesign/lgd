@@ -5,9 +5,7 @@ title: Când și cum plantăm, sfaturi utile despre grădinărit
 description: >-
   În funcţie de starea vremii, dacă martie este o lună destul de caldă, fără
   ploi abundente sau vânt puternic, este recomandat să se înceapă lucrările la
-  gradină pentru a fi curăţată şi pregătită pentru primăvară. După curăţarea
-  acesteia, totul se poate observa mult mai bine, pentru a oferi echipei
-  claritate în dezvoltarea proiectului.
+  gradină pentru a fi curăţată şi pregătită pentru primăvară. 
 author: Claudia
 featured: true
 categories:

@@ -3,12 +3,9 @@ layout: post
 lang: ro
 title: Cum ne amenajăm grădina cu piatră de râu
 description: >+
-  Crearea unei grădini care încântă orice privire presupune o armonizare între
-  mai multe elemente specifice: plante ornamentale verzi, plante cu flori,
-  arbori, piatră naturală, granit, ardezit sau lemn. În articolul de azi al
-  blogului nostru, ne-am propus să vorbim despre piatra naturală de râu, pentru
-  a oferi celor interesaţi cât mai multe informaţii utile, pentru a putea
-  realiza cele mai bune alegeri în amenajarea propriei grădini.
+  În articolul de azi al blogului nostru, ne-am propus să vorbim despre piatra 
+  naturală de râu, pentru a oferi celor interesaţi cât mai multe informaţii utile,
+  pentru a putea realiza cele mai bune alegeri în amenajarea propriei grădini.
 
 author: Claudia
 featured: true

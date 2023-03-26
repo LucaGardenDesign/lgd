@@ -5,10 +5,7 @@ title: Amenajări spectaculoase cu piatră de râu
 description: >+
   Piatra de râu nu este un material pretenţios sau foarte costisitor însă în
   mâinile unor adevăraţi profesionişti, cu multă imaginaţie, se pot realiza cele
-  mai inedite produse în amenajarea grădinilor. Modelele care se pot construi
-  sunt diverse, de la linii ondulate sau petale de flori, până la modele
-  geometrice complicate.
-
+  mai inedite produse în amenajarea grădinilor. 
 author: Claudia
 featured: true
 categories:
