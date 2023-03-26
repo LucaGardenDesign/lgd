@@ -822,6 +822,7 @@ hr.short.center {
 
   .sm-padded     { padding: 5%; }
   .sm-padded-1   { padding: 1rem; }
+  .sm-padded-0   { padding: 0; }
   .sm-padded-05  { padding: 0.5rem; }
   .sm-padded-2   { padding: 2rem; }
 
@@ -863,5 +864,9 @@ hr.short.center {
     }
     ul.share-buttons li {
       margin: 5%;
+    }
+
+    .card {
+      padding: 1rem;
     }
 }
