@@ -429,6 +429,11 @@ color: var(--featured-text);
   opacity: 0.8;
 }
 
+.icon-heading {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
 
 /* ------------ Buttons & Links ------------ */
 a {
@@ -510,10 +515,6 @@ span a:hover{
   color: var(--dark-text);
 }
 
-
-.goTop-button:hover{
-  color: var(--dark-text);
-}
 .sticky-button:hover {
   color: var(--dark-text);
 }
@@ -546,8 +547,10 @@ ul.share-buttons .sr-only{
 .footer-link {
   text-decoration: none;
 }
+
 footer a {
   border: none;
+  margin-left: 20px;
 }
 footer a:hover { color: var(--light-text);}
  
@@ -614,7 +617,15 @@ footer h3 {
     right: 4%;
     top: 0.9rem;
     z-index: 4;
+    text-decoration: none;
+    background-color: transparent;
+    border: none;
   }
+  
+  .hamburger-button:hover {
+  color: var(--featured-text);
+  }
+  
   
   /* Styles when the hamburger button is active  */
   .hamburger-button.active {
@@ -647,6 +658,20 @@ footer h3 {
     color: var(--light-text);
   }
 
+
+/* ------------ Cookie styles  ----------------------- */
+
+.btn-cookie {
+  background-color: transparent;
+  border: none;
+  color: #ffffffcc;
+  font-size: 1.1rem;
+  font-family: inherit;
+}
+
+.btn-cookie:hover {
+  color: var(--featured-text)
+}
 /* ------------ Contact Forms  ----------------------- */
 
 form input,
