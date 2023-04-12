@@ -126,82 +126,82 @@ section { position: relative; }
 }
 
 .bg-logo {
-  background-image: url('/images/bg-light-logo.png');
+  background-image: url('/images/bg-light-logo.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .bg-footer-logo {
-  background-image: url('/images/logo-1.png'); 
+  background-image: url('/images/logo-1.webp'); 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .bg-blog-cover { 
-  background-image: url(/images/blog-cover.jpg);
+  background-image: url('/images/blog-cover.webp');
   background-position: center; 
 }
 
 .bg-gardening { 
-  background-image: url(/images/bg-gardening.jpg);
+  background-image: url('/images/bg-gardening.webp');
 }
 
 .bg-garden { 
-  background-image: url(/images/bg-garden.webp);
+  background-image: url('/images/bg-garden.webp');
   background-position: center; 
 } 
 
 .bg-plant-services { 
-  background-image: url(/images/bg-plant-services.jpeg);
+  background-image: url('/images/bg-plant-services.webp');
   background-position: center; 
 }
 
 .bg-contact-cover  { 
-  background-image: url(/images/bg-contact-cover.jpg);
+  background-image: url('/images/bg-contact-cover.webp');
   background-position: center; 
 }
 
 .bg-shipping{ 
-  background-image: url(/images/bg-shipping.jpg);
+  background-image: url('/images/bg-shipping.webp');
   background-position: bottom; 
 }
 
 .bg-gallery-1{ 
-  background-image: url(/images/p1.jpg);
+  background-image: url('/images/p1.webp');
 }
 
 .bg-gallery-2{ 
-  background-image: url(/images/p2.jpg);
+  background-image: url('/images/p2.webp');
 }
 
 .bg-gallery-3{ 
-  background-image: url(/images/p3.jpg);
+  background-image: url('/images/p3.webp');
 }
 
 .bg-gallery-4{ 
-  background-image: url(/images/p4.jpg);
+  background-image: url('/images/p4.webp');
 }
 
 .bg-gallery-5{ 
-  background-image: url(/images/p5.jpg);
+  background-image: url('/images/p5.webp');
 }
 
 .bg-gallery-6{ 
-  background-image: url(/images/p6.jpg);
+  background-image: url('/images/p6.webp');
 }
 
 .bg-natural-stone-1{
-  background-image: url(/images/bg-natural-stone-1.jpg);
+  background-image: url('/images/bg-natural-stone-1.webp');
 }
 
 .bg-natural-stone-2{
-  background-image: url(/images/bg-natural-stone-2.jpg);
+  background-image: url('/images/bg-natural-stone-2.webp');
 }
 
 .bg-natural-stone-3{
-  background-image: url(/images/bg-natural-stone-3.jpg);
+  background-image: url('/images/bg-natural-stone-3.webp');
 }
 
 
@@ -492,23 +492,6 @@ span a:hover{
 .subtle-button {
   text-decoration: none;
   border-bottom: 1px solid;
-}
-
-.la-chevron-up{
-  display: inline-block;
-  text-decoration: none;
-  background-color: #005C83;
-  color: var(--light-text);
-  padding: 8px;
-  font-size: 1.8rem;
-  border: 1px solid #005C83;
-  border-radius: 50%;
-  box-shadow: rgba(0, 0, 0, .2) 0 3px 5px -1px,rgba(0, 0, 0, .14) 0 6px 10px 0,rgba(0, 0, 0, .12) 0 1px 18px 0;
-  cursor: pointer;
-  position: fixed;
-  right: 2%;
-  bottom: 2.2rem;
-  z-index: 4;
 }
 
 .button:hover {
