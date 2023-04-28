@@ -126,7 +126,7 @@ section { position: relative; }
 }
 
 .bg-logo {
-  background-image: url('/images/Curte-privata-amenajare.webp');
+  background-image: url('/images/bg-light-logo.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
