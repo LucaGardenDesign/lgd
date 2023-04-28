@@ -145,7 +145,7 @@ section { position: relative; }
 }
 
 .bg-gardening { 
-  background-image: url('/images/Curte-privata-amenajare.webp');
+  background-image: url('/images/bg-curte-privata-naturala.webp');
 }
 
 .bg-garden { 
@@ -858,7 +858,6 @@ hr.short.center {
   .slick-dots { bottom: -10px; }
 }
 
-.bg-gardening {background-color: #000000B5;}
 
 /* ------- XS Media Query (36em / 576px) --------------- */ 
 /* - Styles added here will apply at devices smaller than 576px, or zoomed in equivalent */ 
