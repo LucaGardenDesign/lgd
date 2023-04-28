@@ -119,7 +119,7 @@ section { position: relative; }
 
 .bg-image {
     background-color: var(--v-light); /* Set a fall-back color while images are loading */ 
-    background-image: url('/images/bg-curte-piatra-naturala.webp');
+    background-image: url('/images/bg-gradina.webp');
     background-size: cover;
     background-position: center; 
     background-repeat: no-repeat;
@@ -145,7 +145,7 @@ section { position: relative; }
 }
 
 .bg-gardening { 
-  background-image: url('/images/bg-gardening.webp');
+  background-image: url('/images/bg-curte-piatra-naturala.webp');
 }
 
 .bg-garden { 
