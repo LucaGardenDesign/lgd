@@ -119,7 +119,7 @@ section { position: relative; }
 
 .bg-image {
     background-color: var(--v-light); /* Set a fall-back color while images are loading */ 
-    background-image: url('/images/main_banner.webp');
+    background-image: url('/images/bg-curte-piatra-naturala.webp');
     background-size: cover;
     background-position: center; 
     background-repeat: no-repeat;
